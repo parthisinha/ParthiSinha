@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=C1DFFFA9&background=CEE0FF18&center=true&vCenter=true&width=500&lines=Hello+There!;I'm+Parthi;Welcome+to+my+Profile!!!;" alt="Typing Animation">
 </p>
 
-### 👋 Hey, I'm Parthi! 
+### 👋 Hello, I'm Parthi! 
 
 **Aspiring Developer | Exploring Python, HTML & Game Dev**
 
@@ -27,7 +27,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthisinha&
 ---
 
 ## 🧮 **Visitor Counter**
-<a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@parthisinha?theme=rule34"></a>
+<a href="https://google.com"><img align="left" width=350 src="https://count.getloli.com/get/@parthisinha?theme=love-and-deepspace"></a>
+
 
 ```yaml
 Hey, curious mind!
@@ -35,7 +36,8 @@ You’ve just unlocked my digital playground.
 Tread carefully — experiments are always running.
 ```
 
-## 🤝 **Connect with Me**
+
+## 🤝**Connect with Me**
 You’ve unlocked the secret level: “Talk to Parthi”:
 
 <div align="center">
@@ -48,7 +50,7 @@ You’ve unlocked the secret level: “Talk to Parthi”:
 </div>
 
 ```yaml
--My favorite debugger? Curiosity.
+-My favourite debugger? Curiosity.
 -I write code, break it, fix it, and repeat
 -print("Still learning, still building.")
 -print("if tired- coffee()")
