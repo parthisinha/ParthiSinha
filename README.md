@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=C1DFFFA9&background=CEE0FF18&center=true&vCenter=true&width=500&lines=Hello+There!;I'm+Parthi;Welcome+to+my+Profile!!!;" alt="Typing Animation">
+</p>
 ### 👋 Hey, I'm Parthi! 
 
 **Aspiring Developer | Exploring Python, HTML & Game Dev**
